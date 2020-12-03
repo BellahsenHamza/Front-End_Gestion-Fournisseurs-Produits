@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Jante de pneus Mirolex",
+      "modelNo": "MIR-72300",
+      "code": "P0140",
+      "unitPrice": 269.99,
+      "inventory": 23,
+      "supplierId": 1
+    },
+    {
+      "id": 2,
+      "title": "Vitre Telemax Qualité Supérieure",
+      "modelNo": "TM-7738",
+      "code": "V0234",
+      "unitPrice": 123.89,
+      "inventory": 2,
+      "supplierId": 1
+    },
+    {
+      "id": 3,
+      "title": "Miroir Ajustable 4500",
+      "modelNo": "JKL-4500",
+      "code": "M0450",
+      "unitPrice": 89.45,
+      "inventory": 10,
+      "supplierId": 1
+    },
+    {
+      "id": 4,
+      "title": "Sièges Confort Pacov",
+      "modelNo": "PAC-1000",
+      "code": "S0561",
+      "unitPrice": 412.53,
+      "inventory": 5,
+      "supplierId": 1
+    },
+    {
+      "id": 5,
+      "title": "Essieu Tout Usage",
+      "modelNo": "XYZ-77233",
+      "code": "X0113",
+      "unitPrice": 600,
+      "inventory": 0,
+      "supplierId": 1
+    },
+    {
+      "id": 6,
+      "title": "Carburateur Automoto",
+      "modelNo": "AUTO-A1",
+      "code": "X0129A",
+      "unitPrice": 229.99,
+      "inventory": 12,
+      "supplierId": 2
+    },
+    {
+      "id": 7,
+      "title": "Pneus Econoto",
+      "modelNo": "ECO-5511",
+      "code": "P0230",
+      "unitPrice": 450,
+      "inventory": 16,
+      "supplierId": 2
+    },
+    {
+      "id": 8,
+      "title": "Essuie-glace The Snowbuster 2000",
+      "modelNo": "SB-2000",
+      "code": "V0965",
+      "unitPrice": 54.99,
+      "inventory": 130,
+      "supplierId": 2
+    },
+    {
+      "id": 9,
+      "title": "Huile à moteur Skylex",
+      "modelNo": "SKYLEX-A",
+      "code": "X0189",
+      "unitPrice": 70,
+      "inventory": 10,
+      "supplierId": 2
+    }
+  ],
+  "suppliers": [
+    {
+      "name": "Automotives Parts Inc",
+      "contact": "Henri-Paul Levasseur",
+      "telephone": "(514) 243-8753",
+      "address": "10, rue Sherbrooke E",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": "H1X 5C1",
+      "id": 1
+    },
+    {
+      "name": "Les pièces d'auto du Chez-Nous",
+      "contact": "Maude Lessard",
+      "telephone": "(450) 651-2381",
+      "address": "2669, Le Corbusier",
+      "city": "Laval",
+      "province": "QC",
+      "postalCode": "H7S 2E8",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+nav .is-active {
+    border-bottom: 2px solid #000;
+}
+
+nav {
+    margin-bottom: 1em;
+}
+
+.lowInventory{
+    background: red;
+    color:#fff;
+}
